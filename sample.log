@@ -1,3 +1,12 @@
-Line 1
-Line 2
-Line 3
+INFO: Application started
+INFO: Loading configuration files
+INFO: Connecting to database
+WARNING: Database response slow
+ERROR: Failed to retrieve user data
+INFO: Retrying connection
+INFO: Connection established
+WARNING: Disk space running low
+INFO: Processing user requests
+ERROR: Unexpected exception occurred
+INFO: Cleaning up temporary files
+INFO: Application stopped
